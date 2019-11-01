@@ -48,7 +48,7 @@ public:
 		{
 			print_field();
 			next_step();
-			Sleep(250);
+			Sleep(300);
 		}
 	}
 
